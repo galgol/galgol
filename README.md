@@ -22,3 +22,5 @@ I'm currently learning a Full-Stack course on Udemy and later will use my new sk
 
 Reach my out on LinkedIn-  :eyes:
 https://www.linkedin.com/in/gal-goldman-636711191/
+
+-->
