@@ -37,7 +37,7 @@ I'm currently learning a Full-Stack course on Udemy and later will use my new sk
 Linux).
 
 - Navigating a robot in the **real world** and in **Gazebo** simulator using the robot’s sensors (**lidar**) and
-**odometry**. [link to git repo](https://github.com/galgol/armadillo2_project/tree/master/catkin_ws/src/navigation_margal)
+**odometry**. [link to git repo](https://github.com/galgol/tiago_public_ws/tree/master/src/navigation_margal)
 
 [] Computer graphics course (elective course)
 
