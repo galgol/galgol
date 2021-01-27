@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**galgol/galgol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**galgol/galgol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 I am a software developer, Looking for a full time job in the field of software development.
@@ -23,4 +23,4 @@ I'm currently learning a Full-Stack course on Udemy and later will use my new sk
 Reach my out on LinkedIn-  :eyes:
 https://www.linkedin.com/in/gal-goldman-636711191/
 
--->
+
