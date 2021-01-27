@@ -24,27 +24,45 @@ I'm currently learning a Full-Stack course on Udemy and later will use my new sk
 
 #### Background and work expirience:
 [] Bsc in computer Science from Ben-Gurion University
+
 [] Software engineer - Capacicom (full time position ~one month, the project was closed during the corona)
+
 - Upgrading linux os on altera stratix10 board (to linux 4.14.130-ltsi) using Quartus10
+
 [] Software developer- Robotics lab Ben Gurion university
+
 - Programming in **Python,C++**.
+
 - Programming in a **ROS** environment (distributed robotic operating system based on
 Linux).
+
 - Navigating a robot in the **real world** and in **Gazebo** simulator using the robot’s sensors (**lidar**) and
 **odometry**. [link to git repo] (https://github.com/galgol/armadillo2_project/tree/master/catkin_ws/src/navigation_margal)
+
 [] Computer graphics course (elective course)
+
 - introduction to 2D and 3D graphics including: geometric calculations, transformations, lightning, rendering, OpenGL. [link to git repo] (https://github.com/galgol/computer_graphics_course)
 [] QA position Elbit systems
+
 - Writing Software Requirements Specification (**SRS**) for an helicopter simulator
+
 [] QA position Philips Medical systems
+
 - Writing software test description (**STD**) according to FDA requirements
+
 - Testing of in-house automation tools
+
 #### Programing expertise:
 [] Python,C++,C (embedded),Java, Assembly
+
 [] Linux environment , ROS environment
+
 [] ROS tools& capabilities: Gazebo simulator, Rviz, rqt, ROS logs
+
 [] OpenGL
+
 [] Relational databases,SQL
+
 [] GIT
 
 
