@@ -22,7 +22,7 @@ I'm currently learning a Full-Stack course on Udemy and later will use my new sk
 ##### Reach my out on LinkedIn-  :eyes:
 ###### [My LinkedIn profile](https://www.linkedin.com/in/gal-goldman-636711191/)
 
-#### Background and work expirience:
+#### Background and work experience:
 [] Bsc in computer Science from Ben-Gurion University
 
 [] Software engineer - Capacicom (full time position ~one month, the project was closed during the corona)
