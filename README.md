@@ -14,10 +14,10 @@ I decided to learn something new and along the way create a personal project tha
 The project is a TODO list, managed by **client-server mechanism** which I ran on my local computer. I have created 2 related tables according to the specifications (and logic I chose), and maintained a "simple approach" so that I can get things done and later on will be able to improve it (along with the learning :books: ). 
 I chose to write in **Python** because I had worked with it in the past, and I wanted to continue and improve my skills and tool stack
 (and it's also a cool language :heartbeat: ).
-If you are looking for a software developer (or know someone who is) with a lot of motivation, self learner, with great teamwork skills, let me know :)
+If you are looking for a software developer (or know someone who is) with a lot of motivation, self learner, with great teamwork skills, let me know :).
 [You can check it out here](https://github.com/galgol/tasksServer) 
 I'm currently learning a Full-Stack course on Udemy and later will use my new skills to develop something cool :alien:
 ##### You can reach my out on LinkedIn-  :eyes:
-https://www.linkedin.com/in/gal-goldman-636711191/
+[My LinkedIn profile](https://www.linkedin.com/in/gal-goldman-636711191/)
 
 
