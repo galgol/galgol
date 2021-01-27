@@ -11,7 +11,7 @@ I’m a self-learner,creative, independent, have great teamwork skills and highl
 During the corona :mask: I wanted to take a good use of time and improve my skills.
 I decided to learn something new and along the way create a personal project that will use the new tools that I have learned.
 #### My personal project (client-server) for learning to integrate databases (such as MySQL) in python. 
-######[You can check it out here](https://github.com/galgol/tasksServer)
+###### [You can check it out here](https://github.com/galgol/tasksServer)
 The project is a TODO list, managed by **client-server mechanism** which I ran on my local computer. I have created 2 related tables according to the specifications (and logic I chose), and maintained a "simple approach" so that I can get things done and later on will be able to improve it (along with the learning :books: ). 
 I chose to write in **Python** because I had worked with it in the past, and I wanted to continue and improve my skills and tool stack
 (and it's also a cool language :heartbeat: ).
