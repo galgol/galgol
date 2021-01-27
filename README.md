@@ -19,7 +19,7 @@ If you are looking for a software developer (or know someone who is) with a lot 
 
 I'm currently learning a Full-Stack course on Udemy and later will use my new skills to develop something cool :alien:
 
-##### You can reach my out on LinkedIn-  :eyes:
+##### Reach my out on LinkedIn-  :eyes:
 ###### [My LinkedIn profile](https://www.linkedin.com/in/gal-goldman-636711191/)
 
 
