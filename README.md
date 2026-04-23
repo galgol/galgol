@@ -3,7 +3,7 @@
 <!--
 **galgol/galgol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### A Little bit about myself :raising_hand:
+### A Little bit about myself 🙋‍♀️:
 Backend & Infrastructure Developer with experience building Python-based systems and automation workflows. Experienced in designing microservices, REST APIs, and CI/CD pipelines, with a focus on production-grade reliability and maintainable system design.
 
 Hands-on experience working with large-scale open-source ecosystems, including analyzing and remediating real-world vulnerabilities (CVEs), handling compatibility challenges, and ensuring stable backports across diverse environments. Strong background in build systems, packaging, and reproducible environments, combined with automation of complex engineering workflows using Python, Bash, and containerized pipelines.
