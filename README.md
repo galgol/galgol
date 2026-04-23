@@ -29,4 +29,4 @@ o Databases & Storage: Redis, MySQL, MongoDB
 
 o Cloud: AWS (Athena, S3 – querying and storage), Azure (VMs)
 
-##### Reach me out via LinkedIn-:eyes: [My LinkedIn profile](https://www.linkedin.com/in/gal-goldman-amiel/)
+##### Reach me out via LinkedIn :eyes: [My LinkedIn profile](https://www.linkedin.com/in/gal-goldman-amiel/)
