@@ -12,13 +12,21 @@ Background in distributed systems and modern tooling, including LLM-assisted wor
 
 #### Tech-Stack:
 o Languages & Scripting: Python, Bash/shell, C/C++, JavaScript, Java
+
 o GenAI Tools & Prompting: Claude
+
 o Packaging & Build / Package Management: RPM, Debian, Alpine, PyPI, NPM, Maven
+
 o CI/CD & Automation: GitLab CI/CD, Travis CI, AppVeyor
+
 o Messaging & Event Streaming: RabbitMQ, Kafka (theoretical knowledge)
+
 o Containerization: Docker
+
 o Backend & Distributed Systems: REST APIs (FastAPI), microservices architecture
+
 o Databases & Storage: Redis, MySQL, MongoDB
+
 o Cloud: AWS (Athena, S3 – querying and storage), Azure (VMs)
 
 ##### Reach me out via LinkedIn-:eyes: [My LinkedIn profile](https://www.linkedin.com/in/gal-goldman-amiel/)
